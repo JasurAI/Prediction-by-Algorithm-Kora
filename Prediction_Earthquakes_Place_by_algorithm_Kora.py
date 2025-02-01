@@ -1,3 +1,4 @@
+#  This program, which works on the Kora algorithm, was created by Jasur Mamarakhimov. 02.02.2025
 import pandas as pd
 import numpy as np
 
