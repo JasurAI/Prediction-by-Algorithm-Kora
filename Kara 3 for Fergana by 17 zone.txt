@@ -1,0 +1,36 @@
+1-Zone: Golos K1(0) = 847    Golos K2(1) = 506  Real - 0  Prediction - 0
+
+2-Zone: Golos K1(0) = 1330   Golos K2(1) = 227  Real - 0  Prediction - 0
+
+3-Zone: Golos K1(0) = 957    Golos K2(1) = 108  Real - 0  Prediction - 0
+
+4-Zone: Golos K1(0) = 1152   Golos K2(1) = 220  Real - 0  Prediction - 0
+
+5-Zone: Golos K1(0) = 597    Golos K2(1) = 387  Real - 1  Prediction - 0
+
+6-Zone: Golos K1(0) = 313    Golos K2(1) = 633  Real - 1  Prediction - 1
+
+7-Zone: Golos K1(0) = 132    Golos K2(1) = 725  Real - 1  Prediction - 1
+ 
+8-Zone: Golos K1(0) = 650    Golos K2(1) = 254  Real - 0  Prediction - 0
+
+9-Zone: Golos K1(0) = 1522   Golos K2(1) = 120  Real - 1  Prediction - 0
+
+10-Zone: Golos K1(0) = 1122  Golos K2(1) = 129  Real - 0  Prediction - 0
+
+11-Zone: Golos K1(0) = 1463  Golos K2(1) = 14   Real - 0  Prediction - 0
+
+12-Zone: Golos K1(0) = 1477  Golos K2(1) = 0    Real - 0  Prediction - 0
+
+13-Zone: Golos K1(0) = 618   Golos K2(1) = 462  Real - 0  Prediction - 0
+
+14-Zone: Golos K1(0) = 573   Golos K2(1) = 167  Real - 1  Prediction - 0
+
+15-Zone: Golos K1(0) = 141   Golos K2(1) = 856  Real - 0  Prediction - 1
+ 
+16-Zone: Golos K1(0) = 75    Golos K2(1) = 223  Real - 1  Prediction - 1
+
+17-Zone: Golos K1(0) = 370   Golos K2(1) = 179  Real - 1  Prediction - 0
+
+To'g'ri topilgani:12
+Algoritm ishonchliligi: 70%
