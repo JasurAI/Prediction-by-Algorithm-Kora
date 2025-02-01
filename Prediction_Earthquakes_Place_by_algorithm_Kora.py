@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 
 num_plits = 3
-df = pd.read_excel('Data_09.xlsx', index_col=0)
+df = pd.read_excel('Data_30.xlsx', index_col=0)
 n_col = df.shape[1]-1  # number of columns of df
 n_row = df.shape[0]  # number of rows of df
 
